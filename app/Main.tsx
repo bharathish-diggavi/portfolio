@@ -22,10 +22,10 @@ export default function Home({ posts }) {
           </div>
           <div className="max-w-xl space-y-4 text-gray-600 dark:text-gray-400">
             <p>
-             A backend-focused software engineer with over nine years of professional experience, 
-             primarily working with Java and the Spring ecosystem. I enjoy building reliable, s
-             calable systems and have worked extensively on designing and developing APIs, microservices, 
-             and backend platforms.
+              A backend-focused software engineer with over nine years of professional experience,
+              primarily working with Java and the Spring ecosystem. I enjoy building reliable, s
+              calable systems and have worked extensively on designing and developing APIs,
+              microservices, and backend platforms.
             </p>
           </div>
         </div>
